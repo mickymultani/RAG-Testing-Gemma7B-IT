@@ -36,7 +36,7 @@ Given the challenges identified, exploring a new or different PDF parser may be 
 
 ## Repository Contents
 
-- **Results:** Findings and performance evaluations are available in the `results` directory.
+- **Results:** Findings and performance evaluations are available here [Results PDF](https://github.com/mickymultani/RAG-Testing-Gemma7B-IT/blob/main/RAG%20Testing%20with%20Gemma%207B%20Instruction%20Tuned.pdf).
 - **Notebooks:** The Jupyter notebook used for testing is accessible via this [Colab link](https://github.com/mickymultani/RAG-Testing-Gemma7B-IT/blob/main/RAG_Gemma7B_IT.ipynb).
 
 ### Running the Notebook
